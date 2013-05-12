@@ -1,1 +1,2 @@
 This is first Git test file
+This another line of change
